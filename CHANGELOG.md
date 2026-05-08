@@ -1,5 +1,17 @@
 # Changelog
 
+## [4.1.0](https://github.com/mvanhorn/cli-printing-press/compare/v4.0.6...v4.1.0) (2026-05-08)
+
+
+### Features
+
+* **cli:** emit AGENTS.md for printed CLIs (fast-track of [#681](https://github.com/mvanhorn/cli-printing-press/issues/681)) ([#728](https://github.com/mvanhorn/cli-printing-press/issues/728)) ([a9b9aa6](https://github.com/mvanhorn/cli-printing-press/commit/a9b9aa659a84a877f42e21bb91167707bb5e46b9))
+
+
+### Bug Fixes
+
+* **cli:** anchor openapi loader normalization ([#730](https://github.com/mvanhorn/cli-printing-press/issues/730)) ([a4b0eb3](https://github.com/mvanhorn/cli-printing-press/commit/a4b0eb30590d1d322d6895072aa709db5ed46d78))
+
 ## [4.0.6](https://github.com/mvanhorn/cli-printing-press/compare/v4.0.5...v4.0.6) (2026-05-08)
 
 
